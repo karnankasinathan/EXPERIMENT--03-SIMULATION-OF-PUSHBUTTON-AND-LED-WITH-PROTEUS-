@@ -26,17 +26,17 @@ interfaces Datasheet - production data Features
  2. Create a new Proteus project and place STM32F40xx i.e. the same MCU for which the project was created in STM32Cube IDE.
 
  3. After creation of the circuit as per requirement as shown below
- ![image](https://github.com/karnankasinathan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118787064/cd8f90b8-63ac-4407-b740-53b2c37a0817)
+<img src = "https://github.com/karnankasinathan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118787064/cd8f90b8-63ac-4407-b740-53b2c37a0817" width=450 height=450>
 
 
 
  4. Double click on the the MCU part to open settings. Next to the Program File option, give full path to the Hex file generated using STM32Cube IDE. Then set the external 
  crystal frequency to 8M (i.e. 8 MHz). Click OK to save the changes.
- ![image](https://github.com/karnankasinathan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118787064/656d1cbd-46c2-4963-a799-91ac0d990021)
+ <img src = "https://github.com/karnankasinathan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118787064/656d1cbd-46c2-4963-a799-91ac0d990021" width=450 height=450>
 
  
  5. click on debug and simulate using simulation as shown below
-![image](https://github.com/karnankasinathan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118787064/3f5b0073-e46c-4a3b-ad10-9eb1b862188d)
+<img src = "https://github.com/karnankasinathan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118787064/3f5b0073-e46c-4a3b-ad10-9eb1b862188d" width=450 height=450>
 
 
 
@@ -153,10 +153,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Button off :
- ![image](https://github.com/karnankasinathan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118787064/d3fcf3dc-3d21-411d-a01c-6a047fae955b)
+<img src = "https://github.com/karnankasinathan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118787064/d3fcf3dc-3d21-411d-a01c-6a047fae955b" width=450 height=450>
 
  ## Button on :
- ![image](https://github.com/karnankasinathan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118787064/9fbadc84-0875-4321-95f5-d3e7b7a7c809)
+ <img src = "https://github.com/karnankasinathan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118787064/9fbadc84-0875-4321-95f5-d3e7b7a7c809" width=450 height=450>
 
  
 ## Result :
